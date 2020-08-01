@@ -20,3 +20,9 @@ http://peliculas-javascript-api-rest.atwebpages.com/index.html
 ### :computer: Web app de peliculas en javascript
 ----------------
 <img src="capturadepantalla.jpg" width="500px" />
+
+---------------
+ ### 🛠️ Instalacion
+1. hacer download del archivo .zip
+2. instalar un servidor local como **MAMP,LAMP O XAMMP**,en caso de tener instalado colocar los archivos en la carpeta por ej: MAMP/htdocs
+3. Para ejecutar en el navegador localhost:8080/MAMP/htdocs/nombre-carpeta/index.html
