@@ -17,5 +17,5 @@ Este es un proyecto de aplicacion web de peliculas API Rest full en ECMAscript (
 Link:
 http://peliculas-javascript-api-rest.atwebpages.com/index.html
 
-<h3>Web app de peliculas en javascript</h3>
+### :computer: Web app de peliculas en javascript
 <img src="capturadepantalla.jpg" width="500px" />
