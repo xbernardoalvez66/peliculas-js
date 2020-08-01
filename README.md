@@ -18,4 +18,5 @@ Link:
 http://peliculas-javascript-api-rest.atwebpages.com/index.html
 
 ### :computer: Web app de peliculas en javascript
+----------------
 <img src="capturadepantalla.jpg" width="500px" />
