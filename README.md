@@ -1,4 +1,4 @@
-# peliculas-js-ude
+# peliculas-app
 
 Este es un proyecto de aplicacion web de peliculas API Rest full en ECMAscript (ultima version javascript) y framwork bootstrap
 
@@ -26,3 +26,18 @@ http://peliculas-javascript-api-rest.atwebpages.com/index.html
 1. hacer download del archivo .zip
 2. instalar un servidor local como **MAMP,LAMP O XAMMP**,en caso de tener instalado colocar los archivos en la carpeta por ej: MAMP/htdocs
 3. Para ejecutar en el navegador localhost:8080/MAMP/htdocs/nombre-carpeta/index.html
+
+### ✔ Status
+---------------
+Proyecto terminado
+---------------
+### 🎁 Contenido
+---------------
+1. Nombre del proyecto
+2. Tecnologias
+3. Funcionalidades
+4. Captura de pantalla
+5. Instalacion
+6. Status
+7. Contenido
+
