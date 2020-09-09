@@ -1,6 +1,10 @@
 # peliculas-app
 
-Este es un proyecto de aplicacion web de peliculas API Rest full en ECMAscript (ultima version javascript) y framwork bootstrap
+### ⌨️ Sobre el proyecto
+Este es un proyecto de aplicacion web de peliculas API Rest full en ECMAscript (ultima version javascript) y framework css bootstrap 4
+
+### Funcionalidades
+Este proyecto tiene las siguientes funcionalidades:
 
 1- En el home muestra las peliculas destacadas en el slide y las 5 peliculas mas populares y las 5 mas puntuadas
 <br>
@@ -14,8 +18,11 @@ Este es un proyecto de aplicacion web de peliculas API Rest full en ECMAscript (
 <br>
 6-Tambien haciendo click sobre el nombre de la pelicula aparece el genero,el poster y la descricion de la pelicula
 
-Link:
-http://peliculas-javascript-api-rest.atwebpages.com/index.html
+
+### 💿 Tecnologias
+- [bootstrap 4](https://getbootstrap.com/)
+- [javascript 6](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 
 ### :computer: Web app de peliculas en javascript
 ----------------
@@ -31,13 +38,20 @@ http://peliculas-javascript-api-rest.atwebpages.com/index.html
 ---------------
 Proyecto terminado
 
+### Licencia
+<img src="https://img.shields.io/badge/license-MIT-informational"/>
+
+
+
 ### 🎁 Contenido
 ---------------
 1. Nombre del proyecto
-2. Tecnologias
+2. Sobre el proyecto
 3. Funcionalidades
-4. Captura de pantalla
-5. Instalacion
-6. Status
-7. Contenido
+4. Tecnologias
+5. Captura de pantalla
+6. Instalacion
+7. Status
+8. Licencia
+9. Contenido
 
