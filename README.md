@@ -30,7 +30,7 @@ http://peliculas-javascript-api-rest.atwebpages.com/index.html
 ### ✔ Status
 ---------------
 Proyecto terminado
----------------
+
 ### 🎁 Contenido
 ---------------
 1. Nombre del proyecto
